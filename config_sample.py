@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "7234330421:AAGifV2ifYjZAbkgPPkkaQuXSGvzDv2bj4U"
+OWNER_ID = 6066102279
+TELEGRAM_API = 27190467
+TELEGRAM_HASH = "ff6bc6ad2faba520f426cf04ca7f5773"
+DATABASE_URL = "mongodb+srv://sharku:zKKosLfBvResoqhF@cluster0.jped6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
@@ -12,7 +12,7 @@ TG_PROXY = (
 )  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
+AUTHORIZED_CHATS = "-1002510089930"
 SUDO_USERS = ""
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
@@ -43,8 +43,8 @@ DISABLE_SEED = False
 DISABLE_FF_MODE = False
 
 # Telegraph
-AUTHOR_NAME = "WZML-X"
-AUTHOR_URL = "https://t.me/WZML_X"
+AUTHOR_NAME = "Shark-Toons-India"
+AUTHOR_URL = "https://t.me/SharkToonsIndia"
 
 # Task Limits
 DIRECT_LIMIT = 0
@@ -161,16 +161,16 @@ EQUAL_SPLITS = False
 MEDIA_GROUP = False
 USER_TRANSMISSION = True
 HYBRID_LEECH = True
-LEECH_PREFIX = ""
+LEECH_PREFIX = "[SharkToonsIndia] "
 LEECH_SUFFIX = ""
 LEECH_FONT = ""
 LEECH_CAPTION = ""
 THUMBNAIL_LAYOUT = ""
 
 # Log Channels
-LEECH_DUMP_CHAT = ""
-LINKS_LOG_ID = ""
-MIRROR_LOG_ID = ""
+LEECH_DUMP_CHAT = "-1002368843413"
+LINKS_LOG_ID = "-1002368843413"
+MIRROR_LOG_ID = "-1002368843413"
 
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 0
